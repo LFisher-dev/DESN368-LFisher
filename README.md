@@ -40,11 +40,10 @@ As you complete each tool setup, **come back and update the "My Toolkit" section
 
 ## 🛠️ **My Toolkit**
 *Update these links as you complete each tool setup:*
-- **GitHub Profile:**  ⏳
-- **Workspace (Forked Repo):** (https://github.com/sicxz/DESN368-code-design-workspace) ⏳
+- **GitHub Profile:** https://github.com/LFisher-dev
+- **Workspace (Forked Repo):** https://github.com/LFisher-dev/DESN368-LFisher
 - **Figma:** [Add your Figma username here] ⏳
-- **CodePen:** [Add your CodePen profile URL here] ⏳
-- **LiveCode:** [Add your LiveCode profile here] ⏳
+- **CodePen:** (https://codepen.io/LFisher-dev) ⏳
 - **GitHub Student Pack:** [Confirm approval status here] ⏳  
 
 ### **How to Update Your Toolkit:**
