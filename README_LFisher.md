@@ -42,8 +42,8 @@ As you complete each tool setup, **come back and update the "My Toolkit" section
 *Update these links as you complete each tool setup:*
 - **GitHub Profile:** https://github.com/LFisher-dev
 - **Workspace (Forked Repo):** https://github.com/LFisher-dev/DESN368-LFisher
-- **Figma:** [Add your Figma username here] ⏳
-- **CodePen:** (https://codepen.io/LFisher-dev) ⏳
+- **Figma:** Lee_Fisher
+- **CodePen:** (https://codepen.io/LFisher-dev)
 - **GitHub Student Pack:** [Confirm approval status here] ⏳  
 
 ### **How to Update Your Toolkit:**
