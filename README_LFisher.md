@@ -44,7 +44,7 @@ As you complete each tool setup, **come back and update the "My Toolkit" section
 - **Workspace (Forked Repo):** https://github.com/LFisher-dev/DESN368-LFisher
 - **Figma:** Lee_Fisher
 - **CodePen:** (https://codepen.io/LFisher-dev)
-- **GitHub Student Pack:** [Confirm approval status here] ⏳  
+- **GitHub Student Pack:** pending  
 
 ### **How to Update Your Toolkit:**
 1. **Click the pencil icon** (✏️) at the top right of this README  
